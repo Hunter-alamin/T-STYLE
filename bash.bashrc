@@ -45,7 +45,7 @@ echo """
 echo ' '
 date | lolcat
 echo ' '
-echo -e "        ╔════════════════════════════════════════════╗ \n        ║           POWERED BY THE HUNTERBOY         ║ \n        ╚════════════════════════════════════════════╝" | lolcat
+echo -e "        ╔════════════════════════════════════════════╗ \n        ║           OFC SAUL HUILLCA LAYME           ║ \n        ╚════════════════════════════════════════════╝" | lolcat
 echo ' '
 echo ' '
 # Default command line prompt.
